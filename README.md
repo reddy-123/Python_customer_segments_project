@@ -1,0 +1,2 @@
+# Python_customer_segments_project
+Python_customer_segments_project
